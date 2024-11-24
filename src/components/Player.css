@@ -1,0 +1,28 @@
+.player{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("C:\Users\DELL\my-music\public\images\background.avif");
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    background-size: cover;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+
+
+ .custom-audio {
+  width: 300px;            /* Adjust the width */
+  border-radius: 20px;     /* Rounded corners */
+  background-color: #f0f0f0;  /* Light background */
+  border: 2px solid #555;  /* Border color */
+  outline: none;
+} 

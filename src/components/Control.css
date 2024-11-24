@@ -1,0 +1,19 @@
+.control-btn {
+  background-color: #3498db;    /* Button background */
+  border: none;
+  border-radius: 50%;           /* Circular buttons */
+  color: white;                 /* Icon color */
+  font-size: 24px;              /* Icon size */
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.control:hover {
+  background-color: #2980b9;    /* Darker on hover */
+}
+
+.control .fa-icon {
+  margin: auto;                 /* Center the icon inside the button */
+}
